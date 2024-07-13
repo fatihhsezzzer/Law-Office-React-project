@@ -1,0 +1,779 @@
+{
+  "en": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "blogs": "Blog Posts",
+    "faq": "FAQ",
+    "testimonial": "Testimonial",
+    "getAppointment": "Get Appointment",
+    "banner": {
+      "title": "Attorneys Fight For Your Justice",
+      "description": "Our Squad of Professional Attorneys is devoted to your Progress & to achieve your Goal. Our Law Firm supports our clients for various versatile cases and to get justice.",
+      "consultation": "FREE CONSULTATION"
+    },
+    "pageTitles": {
+      "home": "Home",
+      "about": "About Us",
+      "contact": "Contact Us",
+      "blogs": "Blog Posts",
+      "blogDetail": "Blog Content",
+      "faq": "FAQ",
+      "testimonial": "Testimonial",
+      "consultation": "Get Information",
+      "faqTitle": "FREQUENTLY ASKED QUESTIONS"
+    },
+    "appointmentForm": {
+      "getAppointment": "Get An Appointment",
+      "name": "Your Name",
+      "email": "Your Email",
+      "phoneNumber": "Your Phone Number",
+      "msgSubject": "Subject",
+      "caseDescription": "Case Description",
+      "submitCase": "Submit Case",
+      "enterName": "Please enter your name",
+      "enterEmail": "Please enter your email",
+      "enterPhoneNumber": "Please enter your phone number",
+      "enterMsgSubject": "Please enter the subject",
+      "writeMessage": "Write your message"
+    },
+    "blogsPage": {
+      "category": "Categories",
+      "recentBlogs": "New Releases",
+      "tags": "Tags"
+    },
+    "contactPageForm": {
+      "location": "Location",
+      "phone": "Phone",
+      "email1": "Email",
+      "name": "Your Name",
+      "email": "Your Email",
+      "phoneNumber": "Your Phone Number",
+      "msgSubject": "Subject",
+      "message": "Message",
+      "agree": "Accept",
+      "terms": "Terms & Conditions",
+      "and": "and",
+      "privacy": "Privacy Policy",
+      "submit": "Submit Case"
+    },
+    "contactForm": {
+      "location": "Location",
+      "viewOnMap": "View on Google map",
+      "email": "Email",
+      "phone": "Phone",
+      "yourName": "Your Full Name",
+      "yourEmail": "Your Email",
+      "yourPhone": "Your Phone",
+      "subject": "Subject",
+      "caseDescription": "Case Description",
+      "submitCase": "Submit Case"
+    },
+    "footer": {
+      "subscribeNewsletter": "Subscribe Newsletter",
+      "enterYourEmail": "Enter Your Email",
+      "subscribe": "Subscribe",
+      "aboutUsText": "Our Squad of Attorneys are always here to provide you the best and efficient service. Still, if you want to know more about us and our firm, you can connect with us.",
+      "services": "Services",
+      "familyLaw": "Family Law",
+      "educationLaw": "Education Law",
+      "civilLaw": "Civil Law",
+      "criminalLaw": "Criminal Law",
+      "businessLaw": "Business Law",
+      "quickLinks": "Quick Links",
+      "home": "Home",
+      "aboutUs": "About Us",
+      "blogs": "Blogs",
+      "team": "Team",
+      "testimonial": "Testimonial",
+      "findUs": "Find Us",
+      "address": "28/A Street, New York City",
+      "designedBy": "Designed By",
+      "termsConditions": "Terms & Conditions",
+      "privacyPolicy": "Privacy Policy"
+    },
+    "HomePageHelpArea": {
+      "title": "We Provide Qualified Attorneys For Your Assistance",
+      "description": "The Whole Team of Lyzo Law Firm brings a strong and fearless attitude to all the clients they assist. And, to make sure that you win, our team will provide you with High-quality service.",
+      "browse": "Browse Our Website",
+      "choose": "Choose Services",
+      "reply": "Quick Reply",
+      "performance": "Best Performances",
+      "learnMore": "Learn More"
+    },
+    "practiceArea": {
+      "howCanWeHelp": "HOW CAN WE HELP YOU",
+      "ourLegalPractices": "Our Legal Practices",
+      "readMore": "Read More",
+      "inheritanceLaw": {
+        "title": "Inheritance Law",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "businessLaw": {
+        "title": "Business Law",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "enforcementLaw": {
+        "title": "Enforcement Law",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "criminalLaw": {
+        "title": "Criminal Law",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "insuranceLaw": {
+        "title": "Insurance Law",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "familyLaw": {
+        "title": "Family Law",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "cyberLaw": {
+        "title": "Cyber Law",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "commercialLaw": {
+        "title": "Commercial Law",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "bankruptcyLaw": {
+        "title": "Bankruptcy Law",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      }
+    },
+    "expertiseArea": {
+      "ourExpertise": "OUR EXPERTISE",
+      "title": "Law Firm Devoted To Our Clients",
+      "experience": {
+        "title": "Experience",
+        "description": "Squads of Lyzo are incredibly professional and understand the situation of their clients and encourage them until obtaining victory"
+      },
+      "skilledAttorney": {
+        "title": "Skilled Attorney",
+        "description": "Our Attorneys are creative and skilled and it helps them to find a huge variety of solution to win"
+      },
+      "legalProcess": {
+        "title": "Legal Process",
+        "description": "We maintain all the legal documents and papers and start to reach our destination in a legal way"
+      }
+    },
+    "portfolioArea": {
+      "portfolio": "PORTFOLIO",
+      "checkOut": "Check Out Our Popular Case Studies.",
+      "crime": "Crime",
+      "murderCase": "Critical Murder Case",
+      "rights": "Rights",
+      "childrenRights": "Children Rights",
+      "finance": "Finance",
+      "moneyLaundering": "Money Laundering",
+      "seeMore": "See More"
+    },
+    "helpArea": {
+      "title": "We Provide Professional Attorneys to Assist You",
+      "description1": "We are qualified for the success of our client & as a professional law firm. So these professional attorneys are still here at your side with kindness, integrity, and loyalty to help with the worst moments of your life.",
+      "description2": "We are qualified for the success of our client & as a professional law firm. So these professional attorneys are still here at your side with kindness.",
+      "browse": "Browse Our Website",
+      "choose": "Choose Services",
+      "reply": "Quick Reply",
+      "performance": "Best Performances",
+      "learnMore": "Learn More",
+      "founderName": "Barrister Babatunde Smithi",
+      "founderTitle": "Founder and CEO",
+      "excellentServiceTitle": "Our Attorneys Always Provide The Excellent Service",
+      "excellentServiceDescription": "Teams of Intelligent & Professional Attorneys of Lyzo are always prepared to make you triumph. We always try our best to make our clients happy.",
+      "onTimeResponse": "On Time Response",
+      "legalWay": "Legal Way",
+      "legalServices": "Legal Services",
+      "honestWork": "Honest Work"
+    },
+    "AboutPageExpertiseArea": {
+      "ourExpertise": "OUR EXPERTISE",
+      "title": "Law Firm Devoted To Our Clients",
+      "items": {
+        "left": [
+          {
+            "icon": "flaticon-experience",
+            "title": "Experience",
+            "description": "Lyzo teams are exceptionally skilled, acknowledge their client’s condition & help them to achieve their target."
+          },
+          {
+            "icon": "flaticon-lawyer",
+            "title": "Skilled Attorney",
+            "description": "Our attorneys are innovative and knowledgeable and help clients pursue a vast number of solutions to succeed."
+          },
+          {
+            "icon": "flaticon-balance",
+            "title": "Legal Process",
+            "description": "We maintain all valid papers and paperwork and continue to meet our destination legally."
+          }
+        ],
+        "right": [
+          {
+            "icon": "flaticon-money-bag",
+            "title": "Low Cost",
+            "description": "Team of Lyzo are exceptionally skilled, realize their client’s condition, help them to achieve their motive."
+          },
+          {
+            "icon": "flaticon-time",
+            "title": "Good Performance",
+            "description": "Our attorneys are creative and knowledgeable and support clients by finding numerous solutions to win."
+          },
+          {
+            "icon": "flaticon-conversation",
+            "title": "Quick Service",
+            "description": "We manage all valid papers and paperwork and continue to enter our path lawfully."
+          }
+        ]
+      }
+    },
+    "aboutArea": {
+      "ourSkillsTitle": "Our skills makes us famous",
+      "ourSkillsDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "informations": [
+        {
+          "date": "21 Feb 1998",
+          "title": "We started our law firm",
+          "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices",
+          "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+          "date": "10 March 2000",
+          "title": "We started our law firm",
+          "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices",
+          "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+          "date": "9 Nov 2000",
+          "title": "We started our law firm",
+          "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices",
+          "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+          "date": "25 Jan 2010",
+          "title": "We started our law firm",
+          "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices",
+          "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        }
+      ]
+    }
+  },
+  "tr": {
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "blogs": "Blog Yazıları",
+    "contact": "İletişim",
+    "faq": "SSS",
+    "testimonial": "Referanslar",
+    "getAppointment": "Randevu Al",
+    "banner": {
+      "title": "Avukatlar Adaletiniz İçin Savaşıyor",
+      "description": "Profesyonel Avukat Ekibimiz, ilerlemenize ve hedeflerinize ulaşmanıza adanmıştır. Hukuk Firmamız, müşterilerimizi çeşitli çok yönlü davalar için destekler ve adaleti sağlar.",
+      "consultation": "ÜCRETSİZ DANIŞMANLIK"
+    },
+    "pageTitles": {
+      "home": "Anasayfa",
+      "about": "Hakkımızda",
+      "blogs": "Blog Yazıları",
+      "blogDetail": "Blog İçeriği",
+      "contact": "İletişim",
+      "faq": "SSS",
+      "testimonial": "Referanslar",
+      "consultation": "Bilgi Al",
+      "faqTitle": "SIKÇA SORULAN SORULAR"
+    },
+    "appointmentForm": {
+      "getAppointment": "Randevu Al",
+      "name": "Adınız",
+      "email": "E-posta Adresiniz",
+      "phoneNumber": "Telefon Numaranız",
+      "msgSubject": "Konu",
+      "caseDescription": "Dava Açıklaması",
+      "submitCase": "Davayı Gönder",
+      "enterName": "Lütfen adınızı girin",
+      "enterEmail": "Lütfen e-posta adresinizi girin",
+      "enterPhoneNumber": "Lütfen telefon numaranızı girin",
+      "enterMsgSubject": "Lütfen konuyu girin",
+      "writeMessage": "Mesajınızı yazın"
+    },
+    "blogsPage": {
+      "category": "Kategoriler",
+      "recentBlogs": "Yeni Yayınlananlar",
+      "tags": "Etiketler"
+    },
+    "contactPageForm": {
+      "location": "Konum",
+      "phone": "Telefon",
+      "email1": "E-posta",
+      "name": "Adınız",
+      "email": "E-posta Adresiniz",
+      "phoneNumber": "Telefon Numaranız",
+      "msgSubject": "Konu",
+      "message": "Mesaj",
+      "agree": "Kabul et",
+      "terms": "Şartlar & Koşullar",
+      "and": "ve",
+      "privacy": "Gizlilik Politikası",
+      "submit": "Davayı Gönder"
+    },
+    "footer": {
+      "subscribeNewsletter": "Bültene Abone Ol",
+      "enterYourEmail": "E-posta Adresinizi Girin",
+      "subscribe": "Abone Ol",
+      "aboutUsText": "Avukat ekibimiz her zaman size en iyi ve verimli hizmeti sağlamak için burada. Yine de, hakkımızda ve firmamız hakkında daha fazla bilgi edinmek isterseniz, bizimle bağlantı kurabilirsiniz.",
+      "services": "Hizmetler",
+      "familyLaw": "Aile Hukuku",
+      "educationLaw": "Eğitim Hukuku",
+      "civilLaw": "Medeni Hukuk",
+      "criminalLaw": "Ceza Hukuku",
+      "businessLaw": "Ticaret Hukuku",
+      "quickLinks": "Hızlı Bağlantılar",
+      "home": "Anasayfa",
+      "aboutUs": "Hakkımızda",
+      "blogs": "Bloglar",
+      "team": "Takım",
+      "testimonial": "Referanslar",
+      "findUs": "Bizi Bulun",
+      "address": "28/A Sokak, New York Şehri",
+      "designedBy": "Tasarımcı",
+      "termsConditions": "Şartlar & Koşullar",
+      "privacyPolicy": "Gizlilik Politikası"
+    },
+    "contactForm": {
+      "location": "Konum",
+      "viewOnMap": "Google Haritalar'da Görüntüle",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "yourName": "Adınız Soyadınız",
+      "yourEmail": "E-posta Adresiniz",
+      "yourPhone": "Telefon Numaranız",
+      "subject": "Konu",
+      "caseDescription": "Dava Açıklaması",
+      "submitCase": "Davayı Gönder"
+    },
+    "HomePageHelpArea": {
+      "title": "Nitelikli Avukatlar Sunuyoruz",
+      "description": "Lyzo Hukuk Bürosu'nun Tüm Ekibi, yardımcı oldukları tüm müşterilere güçlü ve korkusuz bir tavır sergiler. Ve kazanmanızı sağlamak için, ekibimiz size yüksek kaliteli hizmet sunacaktır.",
+      "browse": "Web Sitemize Göz Atın",
+      "choose": "Hizmetleri Seçin",
+      "reply": "Hızlı Yanıt",
+      "performance": "En İyi Performanslar",
+      "learnMore": "Daha Fazla Bilgi Edinin"
+    },
+    "practiceArea": {
+      "howCanWeHelp": "SİZE NASIL YARDIM EDEBİLİRİZ",
+      "ourLegalPractices": "Hukuki Uygulama Alanlarımız",
+      "readMore": "Daha Fazla Oku",
+      "inheritanceLaw": {
+        "title": "Miras Hukuku",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "businessLaw": {
+        "title": "İş Hukuku",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "enforcementLaw": {
+        "title": "İcra Hukuku",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "criminalLaw": {
+        "title": "Ceza Hukuku",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "insuranceLaw": {
+        "title": "Sigorta Hukuku",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "familyLaw": {
+        "title": "Aile Hukuku",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "cyberLaw": {
+        "title": "Siber Hukuk",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "commercialLaw": {
+        "title": "Ticaret Hukuku",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      },
+      "bankruptcyLaw": {
+        "title": "İcra ve İflas Hukuku",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quisquam, expedita excepturi adipisci"
+      }
+    },
+    "expertiseArea": {
+      "ourExpertise": "UZMANLIĞIMIZ",
+      "title": "Müşterilerimize Adanmış Hukuk Bürosu",
+      "experience": {
+        "title": "Deneyim",
+        "description": "Lyzo ekipleri son derece profesyoneldir ve müşterilerinin durumunu anlar ve zafer elde edene kadar onları teşvik eder"
+      },
+      "skilledAttorney": {
+        "title": "Yetkin Avukat",
+        "description": "Avukatlarımız yaratıcı ve yeteneklidir ve bu, kazanmaları için çok çeşitli çözümler bulmalarına yardımcı olur"
+      },
+      "legalProcess": {
+        "title": "Yasal Süreç",
+        "description": "Tüm yasal belgeleri ve evrakları tutuyoruz ve hedefimize yasal bir şekilde ulaşmaya başlıyoruz"
+      }
+    },
+    "portfolioArea": {
+      "portfolio": "PORTFÖY",
+      "checkOut": "Popüler Vaka Çalışmalarımıza Göz Atın.",
+      "crime": "Suç",
+      "murderCase": "Kritik Cinayet Davası",
+      "rights": "Haklar",
+      "childrenRights": "Çocuk Hakları",
+      "finance": "Finans",
+      "moneyLaundering": "Kara Para Aklama",
+      "seeMore": "Daha Fazla Gör"
+    },
+    "helpArea": {
+      "title": "Nitelikli Avukatlar Sunuyoruz",
+      "description1": "Lyzo Hukuk Bürosu'nun Tüm Ekibi, yardımcı oldukları tüm müşterilere güçlü ve korkusuz bir tavır sergiler. Ve kazanmanızı sağlamak için, ekibimiz size yüksek kaliteli hizmet sunacaktır.",
+      "description2": "Müşterilerimizin başarısı ve profesyonel bir hukuk firması olarak nitelikli olduğumuz için, bu profesyonel avukatlar hala yanınızda, nezaket, dürüstlük ve sadakatle en kötü anlarınızda size yardımcı olmak için burada.",
+      "browse": "Web Sitemize Göz Atın",
+      "choose": "Hizmetleri Seçin",
+      "reply": "Hızlı Yanıt",
+      "performance": "En İyi Performanslar",
+      "learnMore": "Daha Fazla Bilgi Edinin",
+      "founderName": "Barrister Babatunde Smithi",
+      "founderTitle": "Kurucu ve CEO",
+      "excellentServiceTitle": "Avukatlarımız Her Zaman Mükemmel Hizmet Sunar",
+      "excellentServiceDescription": "Lyzo'nun Zeki ve Profesyonel Avukat Ekibi her zaman kazanmaya hazırlıklıdır. Müşterilerimizi mutlu etmek için her zaman elimizden gelenin en iyisini yapıyoruz.",
+      "onTimeResponse": "Zamanında Yanıt",
+      "legalWay": "Yasal Yol",
+      "legalServices": "Yasal Hizmetler",
+      "honestWork": "Dürüst Çalışma"
+    },
+    "AboutPageExpertiseArea": {
+      "ourExpertise": "UZMANLIĞIMIZ",
+      "title": "Müşterilerimize Adanmış Hukuk Bürosu",
+      "items": {
+        "left": [
+          {
+            "icon": "flaticon-experience",
+            "title": "Deneyim",
+            "description": "Lyzo ekipleri son derece profesyoneldir ve müşterilerinin durumunu anlar ve zafer elde edene kadar onları teşvik eder"
+          },
+          {
+            "icon": "flaticon-lawyer",
+            "title": "Yetkin Avukat",
+            "description": "Avukatlarımız yaratıcı ve yeteneklidir ve bu, kazanmaları için çok çeşitli çözümler bulmalarına yardımcı olur"
+          },
+          {
+            "icon": "flaticon-balance",
+            "title": "Yasal Süreç",
+            "description": "Tüm yasal belgeleri ve evrakları tutuyoruz ve hedefimize yasal bir şekilde ulaşmaya başlıyoruz"
+          }
+        ],
+        "right": [
+          {
+            "icon": "flaticon-money-bag",
+            "title": "Düşük Maliyet",
+            "description": "Lyzo Ekibi son derece yeteneklidir, müşterilerinin durumunu anlar ve hedeflerine ulaşmalarına yardımcı olur."
+          },
+          {
+            "icon": "flaticon-time",
+            "title": "İyi Performans",
+            "description": "Avukatlarımız yaratıcı ve bilgili olup, müşterilerin kazanmak için birçok çözüm bulmalarını destekler."
+          },
+          {
+            "icon": "flaticon-conversation",
+            "title": "Hızlı Hizmet",
+            "description": "Tüm geçerli belgeleri ve evrakları yönetiyoruz ve yasal yolda ilerlemeye devam ediyoruz."
+          }
+        ]
+      }
+    },
+    "aboutArea": {
+      "ourSkillsTitle": "Yetkinliklerimiz Bizi Ünlü Yapıyor",
+      "ourSkillsDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "informations": [
+        {
+          "date": "21 Şubat 1998",
+          "title": "Hukuk Büromuzu Kurduk",
+          "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices",
+          "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+          "date": "10 Mart 2000",
+          "title": "Hukuk Büromuzu Kurduk",
+          "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices",
+          "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+          "date": "9 Kasım 2000",
+          "title": "Hukuk Büromuzu Kurduk",
+          "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices",
+          "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        },
+        {
+          "date": "25 Ocak 2010",
+          "title": "Hukuk Büromuzu Kurduk",
+          "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices",
+          "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+        }
+      ]
+    }
+  },
+  "ar": {
+    "home": "الصفحة الرئيسية",
+    "about": "معلومات عنا",
+    "contact": "اتصال",
+    "blogs": "مشاركات المدونة",
+    "faq": "التعليمات",
+    "testimonial": "الشهادات - التوصيات",
+    "getAppointment": "احصل على موعد",
+    "banner": {
+      "title": "المحامون يقاتلون من أجل عدالتك",
+      "description": "فريقنا من المحامين المحترفين مكرس لتقدمك وتحقيق هدفك. يدعم مكتب المحاماة لدينا عملائنا في مختلف القضايا المتنوعة للحصول على العدالة.",
+      "consultation": "استشارة مجانية"
+    },
+    "pageTitles": {
+      "home": "الصفحة الرئيسية",
+      "about": "معلومات عنا",
+      "blogs": "مشاركات المدونة",
+      "contact": "اتصل بنا",
+      "blogDetail": "محتوى المدونة",
+      "faq": "التعليمات",
+      "testimonial": "الشهادات - التوصيات",
+      "consultation": "احصل على المعلومات",
+      "faqTitle": "أسئلة مكررة"
+    },
+    "appointmentForm": {
+      "getAppointment": "احصل على موعد",
+      "name": "اسمك",
+      "email": "بريدك الالكتروني",
+      "phoneNumber": "رقم هاتفك",
+      "msgSubject": "موضوع",
+      "caseDescription": "وصف الحالة",
+      "submitCase": "إرسال الحالة",
+      "enterName": "الرجاء إدخال اسمك",
+      "enterEmail": "الرجاء إدخال بريدك الإلكتروني",
+      "enterPhoneNumber": "الرجاء إدخال رقم هاتفك",
+      "enterMsgSubject": "الرجاء إدخال الموضوع",
+      "writeMessage": "اكتب رسالتك"
+    },
+    "blogsPage": {
+      "category": "فئات",
+      "recentBlogs": "الإصدارات الجديدة",
+      "tags": "تسميات"
+    },
+    "contactPageForm": {
+      "location": "موقعك",
+      "phone": "هاتف",
+      "email1": "البريد الإلكتروني",
+      "name": "اسمك",
+      "email": "بريدك الالكتروني",
+      "phoneNumber": "رقم هاتفك",
+      "msgSubject": "موضوع",
+      "message": "رسالة",
+      "agree": "قبول",
+      "terms": "الشروط والأحكام",
+      "and": "و",
+      "privacy": "سياسة الخصوصية",
+      "submit": "إرسال الحالة"
+    },
+    "footer": {
+      "subscribeNewsletter": "الاشتراك في النشرة الإخبارية",
+      "enterYourEmail": "أدخل بريدك الإلكتروني",
+      "subscribe": "الإشتراك",
+      "aboutUsText": "فريق المحامين لدينا هنا دائمًا لتزويدك بأفضل خدمة فعالة. ومع ذلك ، إذا كنت تريد معرفة المزيد عنا وعن شركتنا ، يمكنك الاتصال بنا.",
+      "services": "الخدمات",
+      "familyLaw": "قانون الأسرة",
+      "educationLaw": "قانون التعليم",
+      "civilLaw": "القانون المدني",
+      "criminalLaw": "القانون الجنائي",
+      "businessLaw": "قانون الأعمال",
+      "quickLinks": "روابط سريعة",
+      "home": "الصفحة الرئيسية",
+      "aboutUs": "معلومات عنا",
+      "blogs": "المدونات",
+      "team": "الفريق",
+      "testimonial": "الشهادات - التوصيات",
+      "findUs": "جدنا",
+      "address": "28/A شارع، مدينة نيويورك",
+      "designedBy": "تصميم بواسطة",
+      "termsConditions": "الشروط والأحكام",
+      "privacyPolicy": "سياسة الخصوصية"
+    },
+    "contactForm": {
+      "location": "موقعك",
+      "viewOnMap": "عرض على خريطة جوجل",
+      "email": "البريد الإلكتروني",
+      "phone": "هاتف",
+      "yourName": "اسمك الكامل",
+      "yourEmail": "بريدك الالكتروني",
+      "yourPhone": "هاتفك",
+      "subject": "موضوع",
+      "caseDescription": "وصف الحالة",
+      "submitCase": "إرسال الحالة"
+    },
+    "HomePageHelpArea": {
+      "title": "نوفر محامين مؤهلين لمساعدتك",
+      "description": "يجلب الفريق بأكمله في Lyzo Law Firm موقفًا قويًا وجريئًا لجميع العملاء الذين يساعدونهم. وللتأكد من أنك تفوز ، سيقدم لك فريقنا خدمة عالية الجودة.",
+      "browse": "تصفح موقعنا",
+      "choose": "اختر الخدمات",
+      "reply": "رد سريع",
+      "performance": "أفضل العروض",
+      "learnMore": "أعرف أكثر"
+    },
+    "practiceArea": {
+      "howCanWeHelp": "كيف يمكننا مساعدتك",
+      "ourLegalPractices": "مجالات ممارساتنا القانونية",
+      "readMore": "قراءة المزيد",
+      "inheritanceLaw": {
+        "title": "قانون الإرث",
+        "description": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور أديبيسيت إليت. إيا كويزكوام، إكسبيديتي إكسبتوري أديبيسكي"
+      },
+      "businessLaw": {
+        "title": "قانون الأعمال",
+        "description": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور أديبيسيت إليت. إيا كويزكوام، إكسبيديتي إكسبتوري أديبيسكي"
+      },
+      "enforcementLaw": {
+        "title": "قانون التنفيذ",
+        "description": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور أديبيسيت إليت. إيا كويزكوام، إكسبيديتي إكسبتوري أديبيسكي"
+      },
+      "criminalLaw": {
+        "title": "القانون الجنائي",
+        "description": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور أديبيسيت إليت. إيا كويزكوام، إكسبيديتي إكسبتوري أديبيسكي"
+      },
+      "insuranceLaw": {
+        "title": "قانون التأمين",
+        "description": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور أديبيسيت إليت. إيا كويزكوام، إكسبيديتي إكسبتوري أديبيسكي"
+      },
+      "familyLaw": {
+        "title": "قانون الأسرة",
+        "description": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور أديبيسيت إليت. إيا كويزكوام، إكسبيديتي إكسبتوري أديبيسكي"
+      },
+      "cyberLaw": {
+        "title": "قانون الإنترنت",
+        "description": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور أديبيسيت إليت. إيا كويزكوام، إكسبيديتي إكسبتوري أديبيسكي"
+      },
+      "commercialLaw": {
+        "title": "القانون التجاري",
+        "description": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور أديبيسيت إليت. إيا كويزكوام، إكسبيديتي إكسبتوري أديبيسكي"
+      },
+      "bankruptcyLaw": {
+        "title": "قانون الإفلاس",
+        "description": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور أديبيسيت إليت. إيا كويزكوام، إكسبيديتي إكسبتوري أديبيسكي"
+      }
+    },
+    "expertiseArea": {
+      "ourExpertise": "خبرتنا",
+      "title": "شركة محاماة مكرسة لعملائنا",
+      "experience": {
+        "title": "خبرة",
+        "description": "فرق Lyzo محترفة بشكل لا يصدق وتفهم وضع عملائها وتشجعهم حتى تحقيق النصر"
+      },
+      "skilledAttorney": {
+        "title": "محام ماهر",
+        "description": "محامونا مبدعون وماهرون ويساعدهم ذلك في العثور على مجموعة متنوعة من الحلول للفوز"
+      },
+      "legalProcess": {
+        "title": "عملية قانونية",
+        "description": "نحتفظ بجميع المستندات والأوراق القانونية ونبدأ في الوصول إلى وجهتنا بطريقة قانونية"
+      }
+    },
+    "portfolioArea": {
+      "portfolio": "محفظة",
+      "checkOut": "تحقق من دراسات الحالة الشعبية لدينا.",
+      "crime": "جريمة",
+      "murderCase": "قضية قتل حرجة",
+      "rights": "الحقوق",
+      "childrenRights": "حقوق الأطفال",
+      "finance": "تمويل",
+      "moneyLaundering": "غسيل الأموال",
+      "seeMore": "شاهد المزيد"
+    },
+    "helpArea": {
+      "title": "نوفر محامين مؤهلين لمساعدتك",
+      "description1": "يجلب الفريق بأكمله في Lyzo Law Firm موقفًا قويًا وجريئًا لجميع العملاء الذين يساعدونهم. وللتأكد من أنك تفوز ، سيقدم لك فريقنا خدمة عالية الجودة.",
+      "description2": "نحن مؤهلون لنجاح عميلنا وكشركة محاماة مهنية. لذا فإن هؤلاء المحامين المحترفين لا يزالون هنا بجانبك بلطف ونزاهة وولاء للمساعدة في أسوأ لحظات حياتك.",
+      "browse": "تصفح موقعنا",
+      "choose": "اختر الخدمات",
+      "reply": "رد سريع",
+      "performance": "أفضل العروض",
+      "learnMore": "أعرف أكثر",
+      "founderName": "المحامي باباتوندي سميثي",
+      "founderTitle": "المؤسس والرئيس التنفيذي",
+      "excellentServiceTitle": "محامونا دائمًا يقدمون خدمة ممتازة",
+      "excellentServiceDescription": "فِرق المحامين المحترفين في Lyzo دائمًا مستعدة لجعلك تنتصر. نحن نحاول دائمًا بذل قصارى جهدنا لإسعاد عملائنا.",
+      "onTimeResponse": "رد في الوقت المناسب",
+      "legalWay": "طريقة قانونية",
+      "legalServices": "خدمات قانونية",
+      "honestWork": "عمل نزيه"
+    },
+    "AboutPageExpertiseArea": {
+      "ourExpertise": "خبرتنا",
+      "title": "شركة محاماة مكرسة لعملائنا",
+      "items": {
+        "left": [
+          {
+            "icon": "flaticon-experience",
+            "title": "خبرة",
+            "description": "فرق Lyzo محترفة بشكل لا يصدق وتفهم وضع عملائها وتشجعهم حتى تحقيق النصر"
+          },
+          {
+            "icon": "flaticon-lawyer",
+            "title": "محام ماهر",
+            "description": "محامونا مبدعون وماهرون ويساعدهم ذلك في العثور على مجموعة متنوعة من الحلول للفوز"
+          },
+          {
+            "icon": "flaticon-balance",
+            "title": "عملية قانونية",
+            "description": "نحتفظ بجميع المستندات والأوراق القانونية ونبدأ في الوصول إلى وجهتنا بطريقة قانونية"
+          }
+        ],
+        "right": [
+          {
+            "icon": "flaticon-money-bag",
+            "title": "تكلفة منخفضة",
+            "description": "فريق Lyzo ماهر بشكل استثنائي ويدرك حالة عملائه ويساعدهم على تحقيق هدفهم."
+          },
+          {
+            "icon": "flaticon-time",
+            "title": "أداء جيد",
+            "description": "محامونا مبدعون وعلى دراية ويدعمون العملاء في العثور على العديد من الحلول للفوز."
+          },
+          {
+            "icon": "flaticon-conversation",
+            "title": "خدمة سريعة",
+            "description": "ندير جميع الأوراق والمستندات الصالحة ونستمر في دخول طريقنا بشكل قانوني."
+          }
+        ]
+      }
+    },
+    "aboutArea": {
+      "ourSkillsTitle": "مهاراتنا تجعلنا مشهورين",
+      "ourSkillsDescription": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت أوت لابوري إت دولوري ماغنا أليكوا.لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت أوت لابوري إت دولوري ماغنا أليكوا.لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور.",
+      "informations": [
+        {
+          "date": "21 فبراير 1998",
+          "title": "بدأنا مكتب المحاماة الخاص بنا",
+          "description1": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت أوت لابوري إت دولوري ماغنا أليكوا. كويز إيبسوم سسبينديس أولتريكيس",
+          "description2": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت."
+        },
+        {
+          "date": "10 مارس 2000",
+          "title": "بدأنا مكتب المحاماة الخاص بنا",
+          "description1": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت أوت لابوري إت دولوري ماغنا أليكوا. كويز إيبسوم سسبينديس أولتريكيس",
+          "description2": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت."
+        },
+        {
+          "date": "9 نوفمبر 2000",
+          "title": "بدأنا مكتب المحاماة الخاص بنا",
+          "description1": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت أوت لابوري إت دولوري ماغنا أليكوا. كويز إيبسوم سسبينديس أولتريكيس",
+          "description2": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت."
+        },
+        {
+          "date": "25 يناير 2010",
+          "title": "بدأنا مكتب المحاماة الخاص بنا",
+          "description1": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت أوت لابوري إت دولوري ماغنا أليكوا. كويز إيبسوم سسبينديس أولتريكيس",
+          "description2": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت، سيد دو إيوسيمود تيمبور إنسيديدونت."
+        }
+      ]
+    }
+  }
+}
