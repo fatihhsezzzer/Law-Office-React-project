@@ -11,7 +11,7 @@ function ContactForm() {
     phoneNumber: "",
     msgSubject: "",
     message: "",
-    recaptchaToken: "", // reCAPTCHA token'ı saklamak için state ekleyin
+    recaptchaToken: "", 
   });
 
   const handleChange = (event) => {
@@ -65,7 +65,7 @@ function ContactForm() {
           phoneNumber: "",
           msgSubject: "",
           message: "",
-          recaptchaToken: "", // reCAPTCHA token'ını sıfırlayın
+          recaptchaToken: "", 
         });
       }
     } catch (error) {
