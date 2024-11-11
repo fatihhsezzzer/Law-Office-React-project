@@ -38,7 +38,7 @@ function AppointmentForm() {
                 Phone: ${formData.phoneNumber}
                 Message: ${formData.message}
             `,
-      recaptchaToken: recaptchaToken, // reCAPTCHA token'ını da eklediğinizden emin olun
+      recaptchaToken: recaptchaToken,
     };
 
     try {
