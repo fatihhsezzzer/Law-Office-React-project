@@ -12,7 +12,7 @@ function ContactPageForm() {
     phoneNumber: "",
     msgSubject: "",
     message: "",
-    recaptchaToken: "", // reCAPTCHA token'ı saklamak için state ekleyin
+    recaptchaToken: "", 
   });
 
   const handleChange = (e) => {
@@ -41,7 +41,7 @@ function ContactPageForm() {
                 Phone: ${formData.phoneNumber}
                 Message: ${formData.message}
             `,
-      recaptchaToken: formData.recaptchaToken, // reCAPTCHA token'ı ekleyin
+      recaptchaToken: formData.recaptchaToken,
     };
 
     try {
