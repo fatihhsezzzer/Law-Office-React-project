@@ -4,9 +4,9 @@ function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Simüle edilen ağ isteği
+   
     setTimeout(() => {
-      setLoading(false); // Yükleme 3 saniye sonra tamamlanacak
+      setLoading(false); 
     }, 1580);
   }, []);
 
