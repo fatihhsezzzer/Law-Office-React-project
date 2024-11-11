@@ -55,34 +55,7 @@ const BlogSection = () => {
     }
   };
 
-  const resolveReferences = (data) => {
-    const idMap = new Map();
 
-    const traverse = (obj) => {
-      if (typeof obj === "object" && obj !== null) {
-        if (obj.$id) {
-          idMap.set(obj.$id, obj);
-        }
-        Object.keys(obj).forEach((key) => traverse(obj[key]));
-      }
-    };
-
-    traverse(data);
-
-    const resolve = (obj) => {
-      if (typeof obj === "object" && obj !== null) {
-        if (obj.$ref) {
-          return idMap.get(obj.$ref);
-        }
-        Object.keys(obj).forEach((key) => {
-          obj[key] = resolve(obj[key]);
-        });
-      }
-      return obj;
-    };
-
-    return resolve(data);
-  };
 
   const getCategoryName = (category) => {
     switch (language) {
